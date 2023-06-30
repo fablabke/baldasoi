@@ -31,3 +31,6 @@ _Vue 3D, module ouvert_
 
 3D![perspective lit 4](https://github.com/fablabke/baldasoi/assets/138204195/b97c6ba9-6618-4fbe-b4f4-673de34fd07e)
 _Vue 3D, module fermé_
+
+
+Lona Guilhot-Vitry
